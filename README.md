@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+```math
+\ce{$\unicode[goombafont;color:red;name:"aa"]{x0000}$}
+```
